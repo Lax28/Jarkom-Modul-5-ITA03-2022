@@ -14,15 +14,17 @@ Setelah kalian mempelajari semua modul yang telah diberikan, Loid ingin meminta 
 
 ![image](https://user-images.githubusercontent.com/90241858/206861072-2a49fbc3-bd49-476d-ada6-055d1284759c.png)
 
-Keterangan :	- Eden adalah DNS Server
-              - WISE adalah DHCP Server
-		          - Garden dan SSS adalah Web Server
-		          - Jumlah Host pada Forger adalah 62 host
-		          - Jumlah Host pada Desmond adalah 700 host
-		          - Jumlah Host pada Blackbell adalah 255 host
-		          - Jumlah Host pada Briar adalah 200 host
+Keterangan :
+- Eden adalah DNS Server
+- WISE adalah DHCP Server
+- Garden dan SSS adalah Web Server
+- Jumlah Host pada Forger adalah 62 host
+- Jumlah Host pada Desmond adalah 700 host
+- Jumlah Host pada Blackbell adalah 255 host
+- Jumlah Host pada Briar adalah 200 host
 
 2. Untuk menjaga perdamaian dunia, Loid ingin meminta kalian untuk membuat topologi tersebut menggunakan teknik CIDR atau VLSM setelah melakukan subnetting.
+
 3. Anya, putri pertama Loid, juga berpesan kepada anda agar melakukan Routing agar setiap perangkat pada jaringan tersebut dapat terhubung.
 
 4. Tugas berikutnya adalah memberikan ip pada subnet Forger, Desmond, Blackbell, dan Briar secara dinamis menggunakan bantuan DHCP server. Kemudian kalian ingat bahwa  kalian harus setting DHCP Relay pada router yang menghubungkannya.
